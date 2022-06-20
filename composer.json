@@ -12,4 +12,9 @@
   ],
   "require": {
   }
+  "autoload": {
+    "psr-4": {
+       "DevnullIr\\LearnVi\\": "src/"
+    }
+  }
 }
