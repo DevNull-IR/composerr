@@ -1,0 +1,15 @@
+{
+  "name": "devnull-ir/learn-vi",
+  "description": "description",
+  "minimum-stability": "dev",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "DevNull-IR",
+      "email": "alishahbazpor110@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
