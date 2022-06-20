@@ -1,7 +1,7 @@
 {
   "name": "devnull-ir/learn-vi",
   "description": "description",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "type": "library",
   "license": "MIT",
   "authors": [
